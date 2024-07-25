@@ -2,7 +2,7 @@
 @section('content')
     <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
         <div class="col-sm-12 col-md-12">
-            <div class="card" style="width: 18rem;">
+            <div class="card" >
                 <img src="{{asset('assets/img/news-on-go.jpg')}}" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Some local info</h5>
